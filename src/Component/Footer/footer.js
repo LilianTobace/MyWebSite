@@ -11,7 +11,7 @@ const Footer = () => {
                 <a href="https://www.facebook.com/LilianMiekoTobace/" class="icon brands fa-facebook-f alt fa-icon"><span class="label">Facebook</span></a>
                 <a href="https://www.instagram.com/liliantobace" class="icon brands fa-instagram alt fa-icon"><span class="label">Instagram</span></a>
             </div>
-            <p class="copyright">&copy; Customized by <a href="https://html5up.net">Lilian Tobace</a>. Template: <a href="https://html5up.net">HTML5 UP</a>.</p>
+            <p class="copyright">&copy; Customized by <a href="https://www.liliantobace.dev">Lilian Tobace</a>. Template: <a href="https://html5up.net">HTML5 UP</a>.</p>
         </footer>
     );
 }
