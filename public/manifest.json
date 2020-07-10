@@ -1,16 +1,11 @@
 {
-  "short_name": "React App",
+  "short_name": "Lilian Tobace",
   "name": "Create React App Sample",
   "icons": [
     {
       "src": "logo192.png",
       "type": "image/png",
       "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
     }
   ],
   "start_url": ".",
